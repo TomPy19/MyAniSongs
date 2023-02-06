@@ -1,0 +1,16 @@
+import requests
+import json
+import os
+from get_user_list import get_user_list
+from get_show_data import get_show_data
+
+access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6ImEyMjM1N2FjODQ1MDRkOGVkYmI5MGRlMTRhM2I0MzVkZTk0ZTY0MmU4NzA1MjIyM2Q0YTEwZGZkNTU1ZTIyYTc5MDJiOTkwZDkwNDkzZDA0In0.eyJhdWQiOiIzMmVmODZmZDk5MzY3MWViMGE3MjgxZDMwMzFmMGJlNCIsImp0aSI6ImEyMjM1N2FjODQ1MDRkOGVkYmI5MGRlMTRhM2I0MzVkZTk0ZTY0MmU4NzA1MjIyM2Q0YTEwZGZkNTU1ZTIyYTc5MDJiOTkwZDkwNDkzZDA0IiwiaWF0IjoxNjc0NTg2MDUwLCJuYmYiOjE2NzQ1ODYwNTAsImV4cCI6MTY3NzI2NDQ1MCwic3ViIjoiMTUyNzQ2MzEiLCJzY29wZXMiOltdfQ.AR9sKeal9L53RYB657REC-OevR0N0DYEW9tVFluMu4xjBDrQTYLTb7-yh-hrW_AnQF-bzwr5nFYLuRWNALD0q--yMPRh01ZjN6XRxfPAggM6FjKkzK-iP3oL-Rwn5mDXbefwd8CJovLDoGyTMpaC8eF2TRtliO319NRaC8YwWnbF3hsv-W6XQgNtsfD_0nrj0pPYUNLELJHwYS3MGnAPhBhxrB3UoM0Hg6R-_r-cJJ32twfVr9Xhun20KcbtLALs9HQX_OfyJWFTVLPskesYMV17oACL1kSLggv3N37pIZ2VNrS_M-ivOO7cf3EhTY9WSDejjtr-wy4OEOP6fSH1sQ"
+
+
+user = '@me'
+url = f'https://api.myanimelist.net/v2/users/{user}/animelist'
+user_list = get_user_list(access_token, url, {}, 0)
+
+get_show_data(user_list)
+print("User list obtained successfully.")
+print("Opening list obtained successfully.")

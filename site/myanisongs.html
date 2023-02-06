@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MyAniSongs</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Righteous&family=Open+Sans">
+    <style>
+        body {
+            font-family: Open Sans;
+            background-color: #282832;
+            color: rgb(238, 231, 221);
+            font-size: 20px;
+        }
+        
+        h1 {
+            font-family: Righteous;
+            font-weight: 100;
+            font-size: 60px;
+            margin-bottom: 15px;
+        }
+        
+        h2 {
+            font-weight: bold;
+            margin-bottom: -15px;
+        }
+        
+        p {
+            margin-bottom: -10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div align="center">
+        <h1>MyAniSongs</h1>
+        <button type="button" onclick="prev() ">
+            Back
+        </button>
+        <video id="player" height="450" width="800" src="about:blank" onended="next() " autoplay controls></video>
+        <button type="button " onclick="next() ">
+            Next
+        </button>
+        <h2>Anime Title: </h2>
+        <p id="anime_title">N/A</p>
+        <h2>Song Title: </h2>
+        <p id="song_title">N/A</p>
+        <h2>Artist Name: </h2>
+        <p id="artist_name">N/A</p>
+    </div>
+    <script src="myanisongs.js"></script>
+</body>
+
+</html>

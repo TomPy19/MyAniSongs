@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 52193,
+        "title": "Akiba Meido Sensou",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1217/129604.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1217/129604l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 47,
+        "title": "Akira",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1408/114012.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1408/114012l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 6347,
+        "title": "Baka to Test to Shoukanjuu",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/50389.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/50389l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 39195,
+        "title": "Beastars",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1234/102008.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1234/102008l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40935,
+        "title": "Beastars 2nd Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1097/109646.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1097/109646l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 49596,
+        "title": "Blue Lock",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1258/126929.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1258/126929l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 46352,
+        "title": "Blue Period",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1757/116931.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1757/116931l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=10"
+  }
+}

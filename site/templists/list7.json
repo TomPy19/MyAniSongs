@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 48414,
+        "title": "Sabikui Bisco",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1446/118840.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1446/118840l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no \u03a8-nan",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/11/80167.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/11/80167l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 205,
+        "title": "Samurai Champloo",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1375/121599.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1375/121599l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 37450,
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1301/93586.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1301/93586l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 199,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/6/79597.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/6/79597l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 2104,
+        "title": "Seto no Hanayome",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/13/58383.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/13/58383l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/67177.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/67177l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 25777,
+        "title": "Shingeki no Kyojin Season 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/4/84177.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/4/84177l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 35760,
+        "title": "Shingeki no Kyojin Season 3",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1173/92110.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1173/92110l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=60",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=80"
+  }
+}

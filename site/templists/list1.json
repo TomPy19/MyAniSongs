@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 33486,
+        "title": "Boku no Hero Academia 2nd Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/12/85221.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/12/85221l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 36456,
+        "title": "Boku no Hero Academia 3rd Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1319/92084.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 38408,
+        "title": "Boku no Hero Academia 4th Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1412/107914.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 41587,
+        "title": "Boku no Hero Academia 5th Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1911/113611.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1911/113611l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1806/126216.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 28999,
+        "title": "Charlotte",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/12/74683.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/12/74683l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 10800,
+        "title": "Chihayafuru",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/35749.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/35749l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 39175,
+        "title": "Cider no You ni Kotoba ga Wakiagaru",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1952/116031.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1952/116031l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 42310,
+        "title": "Cyberpunk: Edgerunners",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1818/126435.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/9/9453.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/9/9453l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=0",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=20"
+  }
+}

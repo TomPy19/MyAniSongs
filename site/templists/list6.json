@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/13/17405.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/13/17405l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 20507,
+        "title": "Noragami",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1886/128266.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/6/73245.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/6/73245l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 50410,
+        "title": "One Piece Film: Red",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1668/125323.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1668/125323l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 28297,
+        "title": "Ore Monogatari!!",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/13/69455.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/13/69455l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 13601,
+        "title": "Psycho-Pass",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/5/43399.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/5/43399l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 31240,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1522/128039.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 2993,
+        "title": "Rosario to Vampire",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/12/75242.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/12/75242l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 4214,
+        "title": "Rosario to Vampire Capu2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/6/25093.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/6/25093l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=50",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=70"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "anime": {
+    "slug": "akiba_maid_sensou",
+    "year": 2022,
+    "animethemes": [
+      {
+        "type": "OP",
+        "song": {
+          "title": "Maid Daikaiten"
+        },
+        "animethemeentries": [
+          {
+            "id": 13747,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-OP1.webm"
+              },
+              {
+                "resolution": 1080,
+                "source": "BD",
+                "tags": "NCBD1080",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-OP1-NCBD1080.webm"
+              }
+            ]
+          },
+          {
+            "id": 13835,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-OP1v2.webm"
+              },
+              {
+                "resolution": 1080,
+                "source": "BD",
+                "tags": "NCBD1080",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-OP1v2-NCBD1080.webm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ED",
+        "song": {
+          "title": "Meido no Komoriuta"
+        },
+        "animethemeentries": [
+          {
+            "id": 13748,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-ED1.webm"
+              },
+              {
+                "resolution": 1080,
+                "source": "BD",
+                "tags": "NCBD1080",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-ED1-NCBD1080.webm"
+              }
+            ]
+          },
+          {
+            "id": 13866,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-ED1v2.webm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ED",
+        "song": {
+          "title": "Isshou Onnanoko Sengen"
+        },
+        "animethemeentries": [
+          {
+            "id": 13850,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-ED2.webm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "ED",
+        "song": {
+          "title": "Meido no Komoriuta"
+        },
+        "animethemeentries": [
+          {
+            "id": 13962,
+            "videos": [
+              {
+                "resolution": 720,
+                "source": "WEB",
+                "tags": "",
+                "link": "https://v.animethemes.moe/AkibaMaidSensou-ED3.webm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "series": [],
+    "resources": [
+      {
+        "external_id": 52193,
+        "site": "MyAnimeList"
+      },
+      {
+        "external_id": 46210,
+        "site": "Kitsu"
+      },
+      {
+        "external_id": 151379,
+        "site": "AniList"
+      },
+      {
+        "external_id": 17475,
+        "site": "aniDB"
+      },
+      {
+        "external_id": 25911,
+        "site": "Anime News Network"
+      },
+      {
+        "external_id": 20857,
+        "site": "Anime-Planet"
+      }
+    ]
+  }
+}

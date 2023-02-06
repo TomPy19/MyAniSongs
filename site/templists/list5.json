@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 47778,
+        "title": "Kimetsu no Yaiba: Yuukaku-hen",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1908/120036.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1908/120036l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/73178.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/73178l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 11771,
+        "title": "Kuroko no Basket",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/11/50453.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/11/50453l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 16894,
+        "title": "Kuroko no Basket 2nd Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/9/56155.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/9/56155l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 1887,
+        "title": "Lucky\u2606Star",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1561/115660.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1561/115660l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 32182,
+        "title": "Mob Psycho 100",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/8/80356.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/8/80356l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 37510,
+        "title": "Mob Psycho 100 II",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1918/96303.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 50172,
+        "title": "Mob Psycho 100 III",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1228/125011.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1228/125011l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 164,
+        "title": "Mononoke Hime",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/7/75919.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/7/75919l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=40",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=60"
+  }
+}

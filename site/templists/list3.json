@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 28891,
+        "title": "Haikyuu!! Second Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/9/76662.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/9/76662l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 38883,
+        "title": "Haikyuu!! To the Top",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1813/105367.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1813/105367l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40776,
+        "title": "Haikyuu!! To the Top Part 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1453/106768.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1453/106768l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 431,
+        "title": "Howl no Ugoku Shiro",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/5/75810.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/5/75810l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 14719,
+        "title": "JoJo no Kimyou na Bouken (TV)",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/40409.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/40409l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 20899,
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/11/55267.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/11/55267l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 26055,
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/11/75045.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/11/75045l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 31933,
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/79156.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/79156l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 37991,
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1572/95010.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1572/95010l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=20",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=40"
+  }
+}

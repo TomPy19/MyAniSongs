@@ -1,0 +1,11 @@
+TO DO:
+
+
+TAGS NEEDED:
+(site)
+Show - name, year
+
+
+(backend)
+Show - slug
+Resources - external_id

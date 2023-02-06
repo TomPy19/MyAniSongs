@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 48661,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1896/119844.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1896/119844l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 51367,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1051/121959.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1051/121959l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 53273,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1233/128920.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1233/128920l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 34933,
+        "title": "Kakegurui",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/86578.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/86578l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 37086,
+        "title": "Kakegurui\u00d7\u00d7",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1496/96519.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1496/96519l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40221,
+        "title": "Kami no Tou",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1702/106229.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1702/106229l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 516,
+        "title": "Keroro Gunsou",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/2/21764.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/2/21764l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40456,
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1704/106947.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1704/106947l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=30",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=50"
+  }
+}

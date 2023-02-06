@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 38524,
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1517/100633.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1517/100633l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40028,
+        "title": "Shingeki no Kyojin: The Final Season",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1000/110531.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1000/110531l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 48583,
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1948/120625.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1948/120625l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 28171,
+        "title": "Shokugeki no Souma",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/72943.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/72943l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40902,
+        "title": "Shokugeki no Souma: Gou no Sara",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1756/108000.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1756/108000l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 32282,
+        "title": "Shokugeki no Souma: Ni no Sara",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/8/79353.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/8/79353l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 35788,
+        "title": "Shokugeki no Souma: San no Sara",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/88434.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/88434l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 36949,
+        "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1604/93531.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1604/93531l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 39940,
+        "title": "Shokugeki no Souma: Shin no Sara",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1072/110175.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1072/110175l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 50265,
+        "title": "Spy x Family",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1441/122795.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1441/122795l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=70",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=90"
+  }
+}

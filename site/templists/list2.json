@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 38691,
+        "title": "Dr. Stone",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1613/102576.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1613/102576l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40852,
+        "title": "Dr. Stone: Stone Wars",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1711/110614.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1711/110614l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 28121,
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/2/70187.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/2/70187l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/5/18179.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/5/18179l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 22043,
+        "title": "Fairy Tail (2014)",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/60551.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/60551l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 17895,
+        "title": "Golden Time",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/12/52091.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/12/52091l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 40052,
+        "title": "Great Pretender",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1418/107954.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1418/107954l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 20583,
+        "title": "Haikyuu!!",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/7/76014.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/7/76014l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 32935,
+        "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/7/81992.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/7/81992l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=10",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=30"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 27899,
+        "title": "Tokyo Ghoul \u221aA",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1889/123307.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1889/123307l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 42249,
+        "title": "Tokyo Revengers",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1839/122012.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1839/122012l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 523,
+        "title": "Tonari no Totoro",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/4/75923.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/4/75923l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 41389,
+        "title": "Tonikaku Kawaii",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1613/108722.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1613/108722l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 4224,
+        "title": "Toradora!",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/13/22128.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/13/22128l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 3457,
+        "title": "Vampire Knight",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/3/7327.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/3/7327l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1795/95088.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1795/95088l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 39710,
+        "title": "Yesterday wo Utatte",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1553/107721.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1553/107721l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=90"
+  }
+}

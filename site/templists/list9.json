@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "node": {
+        "id": 50602,
+        "title": "Spy x Family Part 2",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1111/127508.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1111/127508l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 5681,
+        "title": "Summer Wars",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1593/116751.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1593/116751l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 21881,
+        "title": "Sword Art Online II",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1223/121999.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1223/121999l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 36474,
+        "title": "Sword Art Online: Alicization",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1993/93837.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1993/93837l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 39597,
+        "title": "Sword Art Online: Alicization - War of Underworld",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1630/103417.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1630/103417l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/4/5123l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 38826,
+        "title": "Tenki no Ko",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1880/101146.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1880/101146l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 41353,
+        "title": "The God of High School",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/1722/107269.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/1722/107269l.jpg"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://api-cdn.myanimelist.net/images/anime/5/64449.jpg",
+          "large": "https://api-cdn.myanimelist.net/images/anime/5/64449l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "previous": "https://api.myanimelist.net/v2/users/@me/animelist?offset=80",
+    "next": "https://api.myanimelist.net/v2/users/@me/animelist?offset=100"
+  }
+}
