@@ -24,11 +24,48 @@ def query_name(name, id):
   return
 
 def get_show_data(slug, id):
-  includes = 'include=animethemes.song,animethemes.animethemeentries.videos,series,resources'
-  fields = 'fields[anime]=name,year&fields[song]=title,artist&fields[animetheme]=type&fields[video]=resolution,source,tags,link'
-  fields = fields + '&fields[animethemeentry]=id&fields[resource]=external_id,site&fields[series]=name'
-  url = f'https://api.animethemes.moe/anime/{slug}?{fields}&{includes}'
-  show_data = requests.get(url).json()
+  # includes = 'include=animethemes.song,animethemes.animethemeentries.videos,series,resources'
+  # fields = 'fields[anime]=name,year&fields[song]=title,artist&fields[animetheme]=type&fields[video]=resolution,source,tags,link'
+  # fields = fields + '&fields[animethemeentry]=id&fields[resource]=external_id,site&fields[series]=name'
+  url = f'https://api.animethemes.moe/anime/{slug}'
+  
+  params = {
+    "include": [
+      "animethemes.song",
+      "animethemes.animethemeentries.videos",
+      "series",
+      "resources"
+    ],
+    "fields[anime]": [
+      "year",
+      "name"
+    ],
+    "fields[song]": [
+      "title",
+      "artist"
+    ],
+    "fields[animetheme]": [
+      "type"
+    ],
+    "fields[video]": [
+      "resolution",
+      "source",
+      "tags",
+      "link"
+    ],
+    "fields[animethemeentry]": [
+      "id"
+    ],
+    "fields[resource]": [
+      "external_id",
+      "site"
+    ],
+    "fields[series]": [
+      "name"
+    ]
+  }
+  
+  show_data = requests.get(url, params).json()
   
   if show_data["anime"]["resources"][0]["site"] == 'MyAnimeList':
     mal_id = show_data["anime"]["resources"][0]["external_id"]
