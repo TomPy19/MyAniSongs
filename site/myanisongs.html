@@ -35,21 +35,21 @@
 <body>
     <div align="center">
         <h1>MyAniSongs</h1>
-        <button type="button" onclick="prev() ">
-            Back
-        </button>
-        <video id="player" height="450" width="800" src="about:blank" onended="next() " autoplay controls></video>
-        <button type="button " onclick="next() ">
-            Next
-        </button>
-        <h2>Anime Title: </h2>
-        <p id="anime_title">N/A</p>
-        <h2>Song Title: </h2>
-        <p id="song_title">N/A</p>
-        <h2>Artist Name: </h2>
-        <p id="artist_name">N/A</p>
+
+        <div class="video-player">
+            <button type="button" class="prev">
+                Back
+            </button>
+            <video class="video" height="450" width="800" src="" autoplay controls></video>
+            <button type="button" class="next">
+                Next
+            </button>
+        </div>
+
+        <h2 class="anime-title"></h2>
+        <h2 class="song-title"></h2>
     </div>
-    <script src="myanisongs.js"></script>
+    <script type="module" src="myanisongs.js"></script>
 </body>
 
 </html>

@@ -32,402 +32,422 @@
     "title": "Blue Period"
   },
   "8": {
+    "id": 47917,
+    "title": "Bocchi the Rock!"
+  },
+  "9": {
     "id": 31043,
     "title": "Boku dake ga Inai Machi"
   },
-  "9": {
+  "10": {
     "id": 31964,
     "title": "Boku no Hero Academia"
   },
-  "10": {
+  "11": {
     "id": 33486,
     "title": "Boku no Hero Academia 2nd Season"
   },
-  "11": {
+  "12": {
     "id": 36456,
     "title": "Boku no Hero Academia 3rd Season"
   },
-  "12": {
+  "13": {
     "id": 38408,
     "title": "Boku no Hero Academia 4th Season"
   },
-  "13": {
+  "14": {
     "id": 41587,
     "title": "Boku no Hero Academia 5th Season"
   },
-  "14": {
+  "15": {
     "id": 44511,
     "title": "Chainsaw Man"
   },
-  "15": {
+  "16": {
     "id": 28999,
     "title": "Charlotte"
   },
-  "16": {
+  "17": {
     "id": 10800,
     "title": "Chihayafuru"
   },
-  "17": {
+  "18": {
     "id": 39175,
     "title": "Cider no You ni Kotoba ga Wakiagaru"
   },
-  "18": {
+  "19": {
     "id": 42310,
     "title": "Cyberpunk: Edgerunners"
   },
-  "19": {
+  "20": {
     "id": 1535,
     "title": "Death Note"
   },
-  "20": {
+  "21": {
     "id": 38691,
     "title": "Dr. Stone"
   },
-  "21": {
+  "22": {
     "id": 40852,
     "title": "Dr. Stone: Stone Wars"
   },
-  "22": {
+  "23": {
     "id": 28121,
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
   },
-  "23": {
+  "24": {
     "id": 6702,
     "title": "Fairy Tail"
   },
-  "24": {
+  "25": {
     "id": 22043,
     "title": "Fairy Tail (2014)"
   },
-  "25": {
+  "26": {
+    "id": 22297,
+    "title": "Fate/stay night: Unlimited Blade Works"
+  },
+  "27": {
+    "id": 28701,
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season"
+  },
+  "28": {
+    "id": 27821,
+    "title": "Fate/stay night: Unlimited Blade Works Prologue"
+  },
+  "29": {
     "id": 5114,
     "title": "Fullmetal Alchemist: Brotherhood"
   },
-  "26": {
+  "30": {
     "id": 17895,
     "title": "Golden Time"
   },
-  "27": {
+  "31": {
     "id": 40052,
     "title": "Great Pretender"
   },
-  "28": {
+  "32": {
     "id": 20583,
     "title": "Haikyuu!!"
   },
-  "29": {
+  "33": {
     "id": 32935,
     "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou"
   },
-  "30": {
+  "34": {
     "id": 28891,
     "title": "Haikyuu!! Second Season"
   },
-  "31": {
+  "35": {
     "id": 38883,
     "title": "Haikyuu!! To the Top"
   },
-  "32": {
+  "36": {
     "id": 40776,
     "title": "Haikyuu!! To the Top Part 2"
   },
-  "33": {
+  "37": {
     "id": 431,
     "title": "Howl no Ugoku Shiro"
   },
-  "34": {
+  "38": {
     "id": 11061,
     "title": "Hunter x Hunter (2011)"
   },
-  "35": {
+  "39": {
     "id": 14719,
     "title": "JoJo no Kimyou na Bouken (TV)"
   },
-  "36": {
+  "40": {
     "id": 20899,
     "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders"
   },
-  "37": {
+  "41": {
     "id": 26055,
     "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season"
   },
-  "38": {
+  "42": {
     "id": 31933,
     "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
   },
-  "39": {
+  "43": {
     "id": 37991,
     "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
   },
-  "40": {
+  "44": {
     "id": 48661,
     "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
   },
-  "41": {
+  "45": {
     "id": 51367,
     "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2"
   },
-  "42": {
+  "46": {
     "id": 53273,
     "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3"
   },
-  "43": {
+  "47": {
     "id": 40748,
     "title": "Jujutsu Kaisen"
   },
-  "44": {
+  "48": {
     "id": 34933,
     "title": "Kakegurui"
   },
-  "45": {
+  "49": {
     "id": 37086,
     "title": "Kakegurui\u00d7\u00d7"
   },
-  "46": {
+  "50": {
     "id": 40221,
     "title": "Kami no Tou"
   },
-  "47": {
+  "51": {
     "id": 516,
     "title": "Keroro Gunsou"
   },
-  "48": {
+  "52": {
     "id": 38000,
     "title": "Kimetsu no Yaiba"
   },
-  "49": {
+  "53": {
     "id": 40456,
     "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
   },
-  "50": {
+  "54": {
     "id": 47778,
     "title": "Kimetsu no Yaiba: Yuukaku-hen"
   },
-  "51": {
+  "55": {
     "id": 32281,
     "title": "Kimi no Na wa."
   },
-  "52": {
+  "56": {
     "id": 22535,
     "title": "Kiseijuu: Sei no Kakuritsu"
   },
-  "53": {
+  "57": {
     "id": 11771,
     "title": "Kuroko no Basket"
   },
-  "54": {
+  "58": {
     "id": 16894,
     "title": "Kuroko no Basket 2nd Season"
   },
-  "55": {
+  "59": {
     "id": 1887,
     "title": "Lucky\u2606Star"
   },
-  "56": {
+  "60": {
     "id": 32182,
     "title": "Mob Psycho 100"
   },
-  "57": {
+  "61": {
     "id": 37510,
     "title": "Mob Psycho 100 II"
   },
-  "58": {
+  "62": {
     "id": 50172,
     "title": "Mob Psycho 100 III"
   },
-  "59": {
+  "63": {
     "id": 164,
     "title": "Mononoke Hime"
   },
-  "60": {
+  "64": {
     "id": 20,
     "title": "Naruto"
   },
-  "61": {
+  "65": {
     "id": 20507,
     "title": "Noragami"
   },
-  "62": {
+  "66": {
     "id": 21,
     "title": "One Piece"
   },
-  "63": {
+  "67": {
     "id": 50410,
     "title": "One Piece Film: Red"
   },
-  "64": {
+  "68": {
     "id": 30276,
     "title": "One Punch Man"
   },
-  "65": {
+  "69": {
     "id": 28297,
     "title": "Ore Monogatari!!"
   },
-  "66": {
+  "70": {
+    "id": 50380,
+    "title": "Paripi Koumei"
+  },
+  "71": {
     "id": 13601,
     "title": "Psycho-Pass"
   },
-  "67": {
+  "72": {
     "id": 31240,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
   },
-  "68": {
+  "73": {
     "id": 2993,
     "title": "Rosario to Vampire"
   },
-  "69": {
+  "74": {
     "id": 4214,
     "title": "Rosario to Vampire Capu2"
   },
-  "70": {
+  "75": {
     "id": 48414,
     "title": "Sabikui Bisco"
   },
-  "71": {
+  "76": {
     "id": 33255,
     "title": "Saiki Kusuo no \u03a8-nan"
   },
-  "72": {
+  "77": {
     "id": 205,
     "title": "Samurai Champloo"
   },
-  "73": {
+  "78": {
     "id": 37450,
     "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
   },
-  "74": {
+  "79": {
     "id": 199,
     "title": "Sen to Chihiro no Kamikakushi"
   },
-  "75": {
+  "80": {
     "id": 2104,
     "title": "Seto no Hanayome"
   },
-  "76": {
+  "81": {
     "id": 23273,
     "title": "Shigatsu wa Kimi no Uso"
   },
-  "77": {
+  "82": {
     "id": 16498,
     "title": "Shingeki no Kyojin"
   },
-  "78": {
+  "83": {
     "id": 25777,
     "title": "Shingeki no Kyojin Season 2"
   },
-  "79": {
+  "84": {
     "id": 35760,
     "title": "Shingeki no Kyojin Season 3"
   },
-  "80": {
+  "85": {
     "id": 38524,
     "title": "Shingeki no Kyojin Season 3 Part 2"
   },
-  "81": {
+  "86": {
     "id": 40028,
     "title": "Shingeki no Kyojin: The Final Season"
   },
-  "82": {
+  "87": {
     "id": 48583,
     "title": "Shingeki no Kyojin: The Final Season Part 2"
   },
-  "83": {
+  "88": {
     "id": 28171,
     "title": "Shokugeki no Souma"
   },
-  "84": {
+  "89": {
     "id": 40902,
     "title": "Shokugeki no Souma: Gou no Sara"
   },
-  "85": {
+  "90": {
     "id": 32282,
     "title": "Shokugeki no Souma: Ni no Sara"
   },
-  "86": {
+  "91": {
     "id": 35788,
     "title": "Shokugeki no Souma: San no Sara"
   },
-  "87": {
+  "92": {
     "id": 36949,
     "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen"
   },
-  "88": {
+  "93": {
     "id": 39940,
     "title": "Shokugeki no Souma: Shin no Sara"
   },
-  "89": {
+  "94": {
     "id": 50265,
     "title": "Spy x Family"
   },
-  "90": {
+  "95": {
     "id": 50602,
     "title": "Spy x Family Part 2"
   },
-  "91": {
+  "96": {
     "id": 5681,
     "title": "Summer Wars"
   },
-  "92": {
+  "97": {
     "id": 11757,
     "title": "Sword Art Online"
   },
-  "93": {
+  "98": {
     "id": 21881,
     "title": "Sword Art Online II"
   },
-  "94": {
+  "99": {
     "id": 36474,
     "title": "Sword Art Online: Alicization"
   },
-  "95": {
+  "100": {
     "id": 39597,
     "title": "Sword Art Online: Alicization - War of Underworld"
   },
-  "96": {
+  "101": {
     "id": 2001,
     "title": "Tengen Toppa Gurren Lagann"
   },
-  "97": {
+  "102": {
     "id": 38826,
     "title": "Tenki no Ko"
   },
-  "98": {
+  "103": {
     "id": 41353,
     "title": "The God of High School"
   },
-  "99": {
+  "104": {
     "id": 22319,
     "title": "Tokyo Ghoul"
   },
-  "100": {
+  "105": {
     "id": 27899,
     "title": "Tokyo Ghoul \u221aA"
   },
-  "101": {
+  "106": {
     "id": 42249,
     "title": "Tokyo Revengers"
   },
-  "102": {
+  "107": {
     "id": 523,
     "title": "Tonari no Totoro"
   },
-  "103": {
+  "108": {
     "id": 41389,
     "title": "Tonikaku Kawaii"
   },
-  "104": {
+  "109": {
     "id": 4224,
     "title": "Toradora!"
   },
-  "105": {
+  "110": {
     "id": 3457,
     "title": "Vampire Knight"
   },
-  "106": {
+  "111": {
     "id": 33352,
     "title": "Violet Evergarden"
   },
-  "107": {
+  "112": {
     "id": 39710,
     "title": "Yesterday wo Utatte"
   }

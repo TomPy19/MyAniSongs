@@ -3,7 +3,7 @@ import json
 
 def get_user_list(access_token: str, url, result, it):
   response = requests.get(url, headers = {
-        'Authorization': f'Bearer {access_token}'
+        'X-MAL-CLIENT-ID': access_token
         })
   response.raise_for_status()
   list = response.json()
