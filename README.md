@@ -1,3 +1,3 @@
-# MyAniList
+# MyAniSongs
  
 TODO:
