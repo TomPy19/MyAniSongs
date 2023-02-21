@@ -34,6 +34,8 @@
 
 <body>
     <div align="center">
+        <input type="text" id="user_input">
+        <input type="button" id="input_button" value="Click">
         <h1>MyAniSongs</h1>
 
         <div class="video-player">
@@ -49,9 +51,13 @@
         <h2 class="anime-title"></h2>
         <h2 class="song-title"></h2>
     </div>
-    <script type="module" src="./site/myanisongs.js"></script>
-    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
-    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <script type="module" src="./docs/myanisongs.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/brython@3.8.10/brython.min.js">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/brython@3.8.10/brython_stdlib.js">
+    </script>
+
 </body>
 
 </html>

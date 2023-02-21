@@ -1,7 +1,41 @@
 import requests
 import json
+import sys
 
-data = requests.get("https://api.animethemes.moe/anime/akiba_maid_sensou?fields[anime]=slug,year&fields[song]=title&fields[animetheme]=type&fields[video]=resolution,source,tags,link&fields[animethemeentry]=id&fields[resource]=external_id,site&include=animethemes.song,animethemes.animethemeentries.videos,series,resources").json()
+def get_user_list(access_token: str, url, result, it):
+  response = requests.get(url, headers = {
+        'X-MAL-CLIENT-ID': access_token
+        })
+  response.raise_for_status()
+  list = response.json()
+  response.close()
 
-with open('test.json', 'w') as outfile:
-    json.dump(data, outfile, indent=2)
+  try:
+    data = list["data"]
+    for i in range(len(data)):
+      result[i+(it*10)] = {"id": data[i]["node"]["id"], "title": data[i]["node"]["title"]}
+  except:
+    result = result
+
+  try:
+    next_url = list["paging"]["next"]
+  except KeyError:
+    next_url = 0
+
+  if next_url:
+    it+=1
+    get_user_list(access_token, next_url, result, it)
+
+  # with open('lists/user_list.json', 'w') as outfile:
+  #   json.dump(result, outfile, indent=2)
+  # outfile.close()
+  
+  return result
+
+access_token = "32ef86fd993671eb0a7281d3031f0be4"
+
+# user = sys.argv[1]
+url = f'https://api.myanimelist.net/v2/users/TomPy/animelist'
+user_list = get_user_list(access_token, url, {}, 0)
+
+print(json.dumps(user_list, indent=2))

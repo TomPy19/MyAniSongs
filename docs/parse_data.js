@@ -53,6 +53,6 @@ function parse_data(data) {
             }
         }
     }
-
-
 }
+
+export { parse_data }

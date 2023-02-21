@@ -1,0 +1,25 @@
+{
+  "name": "myanilist",
+  "version": "1.0.0",
+  "description": "TODO:",
+  "main": "test.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomPy19/MyAniList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomPy19/MyAniList/issues"
+  },
+  "homepage": "https://github.com/TomPy19/MyAniList#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
