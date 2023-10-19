@@ -12,7 +12,7 @@ def get_user_list(access_token: str, url, result, it):
   try:
     data = list["data"]
     for i in range(len(data)):
-      result[i+(it*10)] = {"id": data[i]["node"]["id"], "title": data[i]["node"]["title"]}
+      result[i+(it*10)] = {"id": data[i]["node"]["id"]}
   except:
     result = result
 
@@ -24,9 +24,5 @@ def get_user_list(access_token: str, url, result, it):
   if next_url:
     it+=1
     get_user_list(access_token, next_url, result, it)
-
-  with open('lists/user_list.json', 'w') as outfile:
-    json.dump(result, outfile, indent=2)
-  outfile.close()
   
   return result
