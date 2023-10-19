@@ -1,13 +1,5 @@
 {
   "0": {
-    "show_title": "Akiba Maid Sensou",
-    "year": 2022,
-    "song_title": "Maid Daikaiten",
-    "artist": "Ton Tokoton Staff Ichidou",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/AkibaMaidSensou-OP1-NCBD1080.webm"
-  },
-  "1": {
     "show_title": "Baka to Test to Shoukanjuu",
     "year": 2010,
     "song_title": "Perfect-area complete!",
@@ -15,7 +7,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BakaTest-OP1.webm"
   },
-  "2": {
+  "1": {
     "show_title": "Beastars",
     "year": 2019,
     "song_title": "Wild Side",
@@ -23,7 +15,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Beastars-OP1-NCBD1080.webm"
   },
-  "3": {
+  "2": {
     "show_title": "Beastars 2nd Season",
     "year": 2021,
     "song_title": "Kaibutsu",
@@ -31,7 +23,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BeastarsS2-OP1-NCBD1080.webm"
   },
-  "4": {
+  "3": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Haruka Mirai",
@@ -39,7 +31,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP1-NCBD1080.webm"
   },
-  "5": {
+  "4": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "PAiNT it BLACK",
@@ -47,7 +39,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP2-NCBD1080.webm"
   },
-  "6": {
+  "5": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Black Rover",
@@ -55,7 +47,7 @@
     "sequence": 3,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP3-NCBD1080.webm"
   },
-  "7": {
+  "6": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Guess Who Is Back",
@@ -63,7 +55,7 @@
     "sequence": 4,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP4-NCBD1080.webm"
   },
-  "8": {
+  "7": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Gamushara",
@@ -71,7 +63,7 @@
     "sequence": 5,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP5-NCBD1080.webm"
   },
-  "9": {
+  "8": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Rakugaki Page",
@@ -79,7 +71,7 @@
     "sequence": 6,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP6-NCBD1080.webm"
   },
-  "10": {
+  "9": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "JUSTadICE",
@@ -87,7 +79,7 @@
     "sequence": 7,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP7-NCBD1080.webm"
   },
-  "11": {
+  "10": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "sky&blue",
@@ -95,7 +87,7 @@
     "sequence": 8,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP8.webm"
   },
-  "12": {
+  "11": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "RiGHT NOW",
@@ -103,7 +95,7 @@
     "sequence": 9,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP9.webm"
   },
-  "13": {
+  "12": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Black Catcher",
@@ -111,7 +103,7 @@
     "sequence": 10,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP10.webm"
   },
-  "14": {
+  "13": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Stories",
@@ -119,7 +111,7 @@
     "sequence": 11,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP11.webm"
   },
-  "15": {
+  "14": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Eien ni Hikare",
@@ -127,7 +119,7 @@
     "sequence": 12,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP12.webm"
   },
-  "16": {
+  "15": {
     "show_title": "Black Clover (TV)",
     "year": 2017,
     "song_title": "Grandeur",
@@ -135,39 +127,7 @@
     "sequence": 13,
     "hq_link": "https://v.animethemes.moe/BlackClover-OP13.webm"
   },
-  "17": {
-    "show_title": "Blue Lock",
-    "year": 2022,
-    "song_title": "Chaos ga Kiwamaru",
-    "artist": "UNISON SQUARE GARDEN",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/BlueLock-OP1.webm"
-  },
-  "18": {
-    "show_title": "Blue Lock",
-    "year": 2022,
-    "song_title": "Judgement",
-    "artist": "ASH DA HERO",
-    "sequence": 2,
-    "hq_link": "https://v.animethemes.moe/BlueLock-OP2.webm"
-  },
-  "19": {
-    "show_title": "Blue Period",
-    "year": 2021,
-    "song_title": "EVERBLUE",
-    "artist": "N/A",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/BluePeriod-OP1.webm"
-  },
-  "20": {
-    "show_title": "Bocchi the Rock!",
-    "year": 2022,
-    "song_title": "Seishun Complex",
-    "artist": "Kessoku Band",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/BocchiTheRock-OP1-NCBD1080.webm"
-  },
-  "21": {
+  "16": {
     "show_title": "Boku dake ga Inai Machi",
     "year": 2016,
     "song_title": "Re:Re:",
@@ -175,7 +135,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BokuDakeGaInaiMachi-OP1.webm"
   },
-  "22": {
+  "17": {
     "show_title": "Boku no Hero Academia",
     "year": 2016,
     "song_title": "The Day",
@@ -183,7 +143,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademia-OP1-NCBD1080.webm"
   },
-  "23": {
+  "18": {
     "show_title": "Boku no Hero Academia 2nd Season",
     "year": 2017,
     "song_title": "Peace Sign",
@@ -191,7 +151,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS2-OP1-NCBD1080.webm"
   },
-  "24": {
+  "19": {
     "show_title": "Boku no Hero Academia 2nd Season",
     "year": 2017,
     "song_title": "Sora ni Utaeba",
@@ -199,7 +159,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS2-OP2-NCBD1080.webm"
   },
-  "25": {
+  "20": {
     "show_title": "Boku no Hero Academia 3rd Season",
     "year": 2018,
     "song_title": "ODD FUTURE",
@@ -207,7 +167,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS3-OP1-NCBD1080.webm"
   },
-  "26": {
+  "21": {
     "show_title": "Boku no Hero Academia 3rd Season",
     "year": 2018,
     "song_title": "Make My Story",
@@ -215,7 +175,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS3-OP2-NCBD1080.webm"
   },
-  "27": {
+  "22": {
     "show_title": "Boku no Hero Academia 4th Season",
     "year": 2019,
     "song_title": "Polaris",
@@ -223,7 +183,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS4-OP1-NCBD1080.webm"
   },
-  "28": {
+  "23": {
     "show_title": "Boku no Hero Academia 4th Season",
     "year": 2019,
     "song_title": "Star Marker",
@@ -231,31 +191,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS4-OP2-NCBD1080.webm"
   },
-  "29": {
-    "show_title": "Boku no Hero Academia 5th Season",
-    "year": 2021,
-    "song_title": "No.1",
-    "artist": "DISH//",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS5-OP1-NCBD1080.webm"
-  },
-  "30": {
-    "show_title": "Boku no Hero Academia 5th Season",
-    "year": 2021,
-    "song_title": "Merry-Go-Round",
-    "artist": "MAN WITH A MISSION",
-    "sequence": 2,
-    "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS5-OP2-NCBD1080.webm"
-  },
-  "31": {
-    "show_title": "Chainsaw Man",
-    "year": 2022,
-    "song_title": "KICK BACK",
-    "artist": "Kenshi Yonezu",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/ChainsawMan-OP1-NCBD1080.webm"
-  },
-  "32": {
+  "24": {
     "show_title": "Charlotte",
     "year": 2015,
     "song_title": "Bravely You",
@@ -263,23 +199,15 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Charlotte-OP1.webm"
   },
-  "33": {
+  "25": {
     "show_title": "Chihayafuru",
     "year": 2011,
     "song_title": "YOUTHFUL",
-    "artist": "N/A",
+    "artist": "99RadioService",
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Chihayafuru-OP1.webm"
   },
-  "34": {
-    "show_title": "Cyberpunk: Edgerunners",
-    "year": 2022,
-    "song_title": "This Fffire",
-    "artist": "Franz Ferdinand",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/CyberpunkEdgerunners-OP1.webm"
-  },
-  "35": {
+  "26": {
     "show_title": "Death Note",
     "year": 2006,
     "song_title": "THE WORLD",
@@ -287,7 +215,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/DeathNote-OP1.webm"
   },
-  "36": {
+  "27": {
     "show_title": "Death Note",
     "year": 2006,
     "song_title": "What's up people?",
@@ -295,7 +223,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/DeathNote-OP2.webm"
   },
-  "37": {
+  "28": {
     "show_title": "Dr. Stone",
     "year": 2019,
     "song_title": "Good Morning World!",
@@ -303,7 +231,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/DrStone-OP1-NCBD1080.webm"
   },
-  "38": {
+  "29": {
     "show_title": "Dr. Stone",
     "year": 2019,
     "song_title": "Sangenshoku",
@@ -311,7 +239,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/DrStone-OP2-NCBD1080.webm"
   },
-  "39": {
+  "30": {
     "show_title": "Dr. Stone: Stone Wars",
     "year": 2021,
     "song_title": "Rakuen",
@@ -319,7 +247,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/DrStoneS2-OP1-NCBD1080.webm"
   },
-  "40": {
+  "31": {
     "show_title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
     "year": 2015,
     "song_title": "Hey World",
@@ -327,7 +255,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/DanMachi-OP1.webm"
   },
-  "41": {
+  "32": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Snow Fairy",
@@ -335,7 +263,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP1.webm"
   },
-  "42": {
+  "33": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "S.O.W. Sense of Wonder",
@@ -343,7 +271,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP2.webm"
   },
-  "43": {
+  "34": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "ft.",
@@ -351,7 +279,7 @@
     "sequence": 3,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP3.webm"
   },
-  "44": {
+  "35": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "R.P.G. ~Rockin' Playing Game",
@@ -359,7 +287,7 @@
     "sequence": 4,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP4.webm"
   },
-  "45": {
+  "36": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Egao No Mahou",
@@ -367,7 +295,7 @@
     "sequence": 5,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP5.webm"
   },
-  "46": {
+  "37": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Fiesta",
@@ -375,7 +303,7 @@
     "sequence": 6,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP6.webm"
   },
-  "47": {
+  "38": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Evidence",
@@ -383,7 +311,7 @@
     "sequence": 7,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP7.webm"
   },
-  "48": {
+  "39": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "The Rock City Boy",
@@ -391,7 +319,7 @@
     "sequence": 8,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP8.webm"
   },
-  "49": {
+  "40": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Towa no Kizuna",
@@ -399,7 +327,7 @@
     "sequence": 9,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP9.webm"
   },
-  "50": {
+  "41": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "I Wish",
@@ -407,7 +335,7 @@
     "sequence": 10,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP10.webm"
   },
-  "51": {
+  "42": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Hajimari no Sora",
@@ -415,7 +343,7 @@
     "sequence": 11,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP11.webm"
   },
-  "52": {
+  "43": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Tenohira",
@@ -423,7 +351,7 @@
     "sequence": 12,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP12.webm"
   },
-  "53": {
+  "44": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Breakthrough",
@@ -431,7 +359,7 @@
     "sequence": 13,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP13.webm"
   },
-  "54": {
+  "45": {
     "show_title": "Fairy Tail",
     "year": 2009,
     "song_title": "Fairy Tail: Yakusoku no Hi",
@@ -439,7 +367,71 @@
     "sequence": 14,
     "hq_link": "https://v.animethemes.moe/FairyTail-OP14.webm"
   },
-  "55": {
+  "46": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "MASAYUME CHASING",
+    "artist": "N/A",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP1.webm"
+  },
+  "47": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "STRIKE BACK",
+    "artist": "BACK-ON",
+    "sequence": 2,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP2.webm"
+  },
+  "48": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "Mysterious Magic",
+    "artist": "N/A",
+    "sequence": 3,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP3.webm"
+  },
+  "49": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "BREAK OUT",
+    "artist": "N/A",
+    "sequence": 4,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP4.webm"
+  },
+  "50": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "Yume-iro Graffiti",
+    "artist": "N/A",
+    "sequence": 5,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP5.webm"
+  },
+  "51": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "NEVER-END TALE",
+    "artist": "Konomi Suzuki",
+    "sequence": 6,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP6.webm"
+  },
+  "52": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "Believe In Myself",
+    "artist": "EDGE of LIFE",
+    "sequence": 7,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP7.webm"
+  },
+  "53": {
+    "show_title": "Fairy Tail",
+    "year": 2014,
+    "song_title": "Ashita wo Orase",
+    "artist": "N/A",
+    "sequence": 8,
+    "hq_link": "https://v.animethemes.moe/FairyTail2014-OP8.webm"
+  },
+  "54": {
     "show_title": "Fate/stay night: Unlimited Blade Works (TV)",
     "year": 2014,
     "song_title": "ideal white",
@@ -447,7 +439,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/FateStayNightUBW-OP1.webm"
   },
-  "56": {
+  "55": {
     "show_title": "Fate/stay night: Unlimited Blade Works 2nd Season",
     "year": 2015,
     "song_title": "Brave Shine",
@@ -455,7 +447,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/FateStayNightUBWS2-OP1.webm"
   },
-  "57": {
+  "56": {
     "show_title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "song_title": "again",
@@ -463,7 +455,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/FullmetalAlchemistBrotherhood-OP1.webm"
   },
-  "58": {
+  "57": {
     "show_title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "song_title": "Hologram",
@@ -471,7 +463,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/FullmetalAlchemistBrotherhood-OP2.webm"
   },
-  "59": {
+  "58": {
     "show_title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "song_title": "Golden Time Lover",
@@ -479,7 +471,7 @@
     "sequence": 3,
     "hq_link": "https://v.animethemes.moe/FullmetalAlchemistBrotherhood-OP3.webm"
   },
-  "60": {
+  "59": {
     "show_title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "song_title": "Period",
@@ -487,7 +479,7 @@
     "sequence": 4,
     "hq_link": "https://v.animethemes.moe/FullmetalAlchemistBrotherhood-OP4.webm"
   },
-  "61": {
+  "60": {
     "show_title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "song_title": "Rain",
@@ -495,7 +487,7 @@
     "sequence": 5,
     "hq_link": "https://v.animethemes.moe/FullmetalAlchemistBrotherhood-OP5.webm"
   },
-  "62": {
+  "61": {
     "show_title": "Golden Time",
     "year": 2013,
     "song_title": "Golden Time",
@@ -503,7 +495,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/GoldenTime-OP1.webm"
   },
-  "63": {
+  "62": {
     "show_title": "Golden Time",
     "year": 2013,
     "song_title": "The\u2661World's\u2661End",
@@ -511,7 +503,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/GoldenTime-OP2.webm"
   },
-  "64": {
+  "63": {
     "show_title": "Great Pretender",
     "year": 2020,
     "song_title": "G.P.",
@@ -519,7 +511,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/GreatPretender-OP1-NCBD1080.webm"
   },
-  "65": {
+  "64": {
     "show_title": "Haikyuu!!",
     "year": 2014,
     "song_title": "Imagination",
@@ -527,7 +519,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Haikyuu-OP1.webm"
   },
-  "66": {
+  "65": {
     "show_title": "Haikyuu!!",
     "year": 2014,
     "song_title": "Ah Yeah!!",
@@ -535,7 +527,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/Haikyuu-OP2.webm"
   },
-  "67": {
+  "66": {
     "show_title": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
     "year": 2016,
     "song_title": "Hikari Are",
@@ -543,7 +535,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/HaikyuuS3-OP1-NCBD1080.webm"
   },
-  "68": {
+  "67": {
     "show_title": "Haikyuu!! Second Season",
     "year": 2015,
     "song_title": "I'm A Believer",
@@ -551,7 +543,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/HaikyuuS2-OP1-NCBD1080.webm"
   },
-  "69": {
+  "68": {
     "show_title": "Haikyuu!! Second Season",
     "year": 2015,
     "song_title": "Fly High!!",
@@ -559,7 +551,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/HaikyuuS2-OP2-NCBD1080.webm"
   },
-  "70": {
+  "69": {
     "show_title": "Haikyuu!!: To the Top",
     "year": 2020,
     "song_title": "PHOENIX",
@@ -567,7 +559,23 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/HaikyuuS4-OP1-NCBD1080.webm"
   },
+  "70": {
+    "show_title": "Haikyuu!!: To the Top 2nd Season",
+    "year": 2020,
+    "song_title": "Toppakou",
+    "artist": "SUPER BEAVER",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/HaikyuuS5-OP1-NCBD1080.webm"
+  },
   "71": {
+    "show_title": "Hunter x Hunter",
+    "year": 2011,
+    "song_title": "departure!",
+    "artist": "N/A",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/HunterHunter2011-OP1.webm"
+  },
+  "72": {
     "show_title": "JoJo no Kimyou na Bouken",
     "year": 2012,
     "song_title": "JoJo ~Sono Chi no Sadame~",
@@ -575,7 +583,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBouken-OP1.webm"
   },
-  "72": {
+  "73": {
     "show_title": "JoJo no Kimyou na Bouken",
     "year": 2012,
     "song_title": "BLOODY STREAM",
@@ -583,7 +591,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBouken-OP2.webm"
   },
-  "73": {
+  "74": {
     "show_title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
     "year": 2014,
     "song_title": "STAND PROUD",
@@ -591,7 +599,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS2-OP1.webm"
   },
-  "74": {
+  "75": {
     "show_title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
     "year": 2015,
     "song_title": "JoJo - Sono Chi no Kioku: end of THE WORLD",
@@ -599,7 +607,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS3-OP1.webm"
   },
-  "75": {
+  "76": {
     "show_title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
     "year": 2016,
     "song_title": "Crazy Noisy Bizarre Town",
@@ -607,7 +615,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS4-OP1.webm"
   },
-  "76": {
+  "77": {
     "show_title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
     "year": 2016,
     "song_title": "Crazy Noisy Bizarre Town ~EDM arrange ver.~",
@@ -615,7 +623,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS4-OP2.webm"
   },
-  "77": {
+  "78": {
     "show_title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
     "year": 2016,
     "song_title": "chase",
@@ -623,15 +631,15 @@
     "sequence": 3,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS4-OP3.webm"
   },
-  "78": {
+  "79": {
     "show_title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
     "year": 2016,
     "song_title": "Great Days",
-    "artist": "N/A",
+    "artist": "Daisuke Hasegawa",
     "sequence": 4,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS4-OP4.webm"
   },
-  "79": {
+  "80": {
     "show_title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
     "year": 2018,
     "song_title": "Fighting Gold",
@@ -639,31 +647,15 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS5-OP1-NCBD1080.webm"
   },
-  "80": {
+  "81": {
     "show_title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
     "year": 2018,
     "song_title": "Uragirimono no Requiem",
-    "artist": "N/A",
+    "artist": "Daisuke Hasegawa",
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS5-OP2-NCBD1080.webm"
   },
-  "81": {
-    "show_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
-    "year": 2022,
-    "song_title": "STONE OCEAN",
-    "artist": "ichigo",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP1.webm"
-  },
   "82": {
-    "show_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
-    "year": 2022,
-    "song_title": "Heaven's falling down",
-    "artist": "sajou no hana",
-    "sequence": 2,
-    "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP2.webm"
-  },
-  "83": {
     "show_title": "Jujutsu Kaisen",
     "year": 2020,
     "song_title": "Kaikai Kitan",
@@ -671,7 +663,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/JujutsuKaisen-OP1-NCBD1080.webm"
   },
-  "84": {
+  "83": {
     "show_title": "Jujutsu Kaisen",
     "year": 2020,
     "song_title": "VIVID VICE",
@@ -679,13 +671,21 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/JujutsuKaisen-OP2-NCBD1080.webm"
   },
-  "85": {
+  "84": {
     "show_title": "Kakegurui",
     "year": 2017,
     "song_title": "Deal with the devil",
     "artist": "Tia",
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Kakegurui-OP1-NCBD1080.webm"
+  },
+  "85": {
+    "show_title": "Kakegurui\u00d7\u00d7",
+    "year": 2019,
+    "song_title": "Kono Yubi Tomare",
+    "artist": "JUNNA",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/KakeguruiS2-OP1-NCBD1080.webm"
   },
   "86": {
     "show_title": "Kami no Tou",
@@ -792,14 +792,6 @@
     "hq_link": "https://v.animethemes.moe/KimetsuNoYaiba-OP1-NCBD1080.webm"
   },
   "99": {
-    "show_title": "Kimetsu no Yaiba: Yuukaku-hen",
-    "year": 2022,
-    "song_title": "Zankyou Zanka",
-    "artist": "Aimer",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/KimetsuNoYaibaYuukakuHen-OP1-NCBD1080.webm"
-  },
-  "100": {
     "show_title": "Kimi no Na wa.",
     "year": 2016,
     "song_title": "Yume Tourou",
@@ -807,7 +799,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/KimiNoNaWa-OP1.webm"
   },
-  "101": {
+  "100": {
     "show_title": "Kiseijuu: Sei no Kakuritsu",
     "year": 2014,
     "song_title": "Let Me Hear",
@@ -815,7 +807,23 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Kiseijuu-OP1.webm"
   },
+  "101": {
+    "show_title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "year": 2016,
+    "song_title": "fantastic dreamer",
+    "artist": "Machico",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/Konosuba-OP1.webm"
+  },
   "102": {
+    "show_title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "year": 2017,
+    "song_title": "TOMORROW",
+    "artist": "Machico",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/KonosubaS2-OP1.webm"
+  },
+  "103": {
     "show_title": "Kuroko no Basket",
     "year": 2012,
     "song_title": "Can Do",
@@ -823,7 +831,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/KurokoNoBasket-OP1.webm"
   },
-  "103": {
+  "104": {
     "show_title": "Kuroko no Basket",
     "year": 2012,
     "song_title": "RIMFIRE",
@@ -831,7 +839,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/KurokoNoBasket-OP2.webm"
   },
-  "104": {
+  "105": {
     "show_title": "Kuroko no Basket 2nd Season",
     "year": 2013,
     "song_title": "The Other Self",
@@ -839,7 +847,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/KurokoNoBasketS2-OP1-Lyrics.webm"
   },
-  "105": {
+  "106": {
     "show_title": "Kuroko no Basket 2nd Season",
     "year": 2013,
     "song_title": "Hengen Jizai no Magical Star",
@@ -847,7 +855,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/KurokoNoBasketS2-OP2.webm"
   },
-  "106": {
+  "107": {
     "show_title": "Lucky\u2606Star",
     "year": 2007,
     "song_title": "Motteke! Sailor Fuku",
@@ -855,29 +863,21 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/LuckyStar-OP1.webm"
   },
-  "107": {
+  "108": {
     "show_title": "Mob Psycho 100",
     "year": 2016,
     "song_title": "99",
     "artist": "MOB CHOIR",
     "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/MobPsycho100-OP1-BD1080.webm"
+    "hq_link": "https://v.animethemes.moe/MobPsycho100-OP1.webm"
   },
-  "108": {
+  "109": {
     "show_title": "Mob Psycho 100 II",
     "year": 2019,
     "song_title": "99.9",
     "artist": "sajou no hana",
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/MobPsycho100S2-OP1-BD1080.webm"
-  },
-  "109": {
-    "show_title": "Mob Psycho 100 III",
-    "year": 2022,
-    "song_title": "1",
-    "artist": "MOB CHOIR",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/MobPsycho100S3-OP1.webm"
   },
   "110": {
     "show_title": "Naruto",
@@ -1160,6 +1160,14 @@
     "hq_link": "https://v.animethemes.moe/OnePiece-OP24.webm"
   },
   "145": {
+    "show_title": "One Piece",
+    "year": 1999,
+    "song_title": "Saikou Toutatsuten",
+    "artist": "SEKAI NO OWARI",
+    "sequence": 25,
+    "hq_link": "https://v.animethemes.moe/OnePiece-OP25.webm"
+  },
+  "146": {
     "show_title": "One Punch Man",
     "year": 2015,
     "song_title": "THE HERO !! ~Okoreru Kobushi ni Hi wo Tsukero~",
@@ -1167,21 +1175,13 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/OnePunchMan-OP1.webm"
   },
-  "146": {
+  "147": {
     "show_title": "Ore Monogatari!!",
     "year": 2015,
     "song_title": "Miraikei Answer",
     "artist": "N/A",
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/OreMonogatari-OP1.webm"
-  },
-  "147": {
-    "show_title": "Paripi Koumei",
-    "year": 2022,
-    "song_title": "Chiki Chiki Ban Ban",
-    "artist": "QUEENDOM",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/ParipiKoumei-OP1.webm"
   },
   "148": {
     "show_title": "Psycho Pass",
@@ -1232,14 +1232,6 @@
     "hq_link": "https://v.animethemes.moe/RosarioToVampireCapu2-OP1.webm"
   },
   "154": {
-    "show_title": "Sabikui Bisco",
-    "year": 2022,
-    "song_title": "Kaze no Oto sae Kikoenai",
-    "artist": "JUNNA",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/SabikuiBisco-OP1.webm"
-  },
-  "155": {
     "show_title": "Saiki Kusuo no \u03a8-nan",
     "year": 2016,
     "song_title": "Seishun wa Zankoku ja nai",
@@ -1247,7 +1239,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SaikiKusuoNoPsiNanTV-OP1.webm"
   },
-  "156": {
+  "155": {
     "show_title": "Saiki Kusuo no \u03a8-nan",
     "year": 2016,
     "song_title": "Sai Psi Sai Kouchou!",
@@ -1255,7 +1247,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/SaikiKusuoNoPsiNanTV-OP2.webm"
   },
-  "157": {
+  "156": {
     "show_title": "Samurai Champloo",
     "year": 2004,
     "song_title": "Battlecry",
@@ -1263,7 +1255,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SamuraiChamploo-OP1-NCBD1080.webm"
   },
-  "158": {
+  "157": {
     "show_title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     "year": 2018,
     "song_title": "Kimi no Sei",
@@ -1271,7 +1263,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Aobuta-OP1-Lyrics.webm"
   },
-  "159": {
+  "158": {
     "show_title": "Seto no Hanayome",
     "year": 2007,
     "song_title": "Romantic summer",
@@ -1279,7 +1271,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SetoNoHanayome-OP1.webm"
   },
-  "160": {
+  "159": {
     "show_title": "Shigatsu wa Kimi no Uso",
     "year": 2014,
     "song_title": "Hikaru nara",
@@ -1287,7 +1279,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/KimiUso-OP1.webm"
   },
-  "161": {
+  "160": {
     "show_title": "Shigatsu wa Kimi no Uso",
     "year": 2014,
     "song_title": "Nanairo Symphony",
@@ -1295,7 +1287,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/KimiUso-OP2.webm"
   },
-  "162": {
+  "161": {
     "show_title": "Shingeki no Kyojin",
     "year": 2013,
     "song_title": "Guren no Yumiya",
@@ -1303,7 +1295,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojin-OP1.webm"
   },
-  "163": {
+  "162": {
     "show_title": "Shingeki no Kyojin",
     "year": 2013,
     "song_title": "Jiyuu no Tsubasa",
@@ -1311,7 +1303,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojin-OP2.webm"
   },
-  "164": {
+  "163": {
     "show_title": "Shingeki no Kyojin Season 2",
     "year": 2017,
     "song_title": "Shinzou wo Sasageyo!",
@@ -1319,7 +1311,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS2-OP1-NCBD1080.webm"
   },
-  "165": {
+  "164": {
     "show_title": "Shingeki no Kyojin Season 3",
     "year": 2018,
     "song_title": "Red Swan",
@@ -1327,7 +1319,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS3-OP1-NCBD1080.webm"
   },
-  "166": {
+  "165": {
     "show_title": "Shingeki no Kyojin Season 3 Part 2",
     "year": 2019,
     "song_title": "Shoukei to Shikabane no Michi",
@@ -1335,7 +1327,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS3Part2-OP1-NCBD1080.webm"
   },
-  "167": {
+  "166": {
     "show_title": "Shingeki no Kyojin: The Final Season",
     "year": 2020,
     "song_title": "Boku no Sensou",
@@ -1343,15 +1335,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS4-OP1.webm"
   },
-  "168": {
-    "show_title": "Shingeki no Kyojin: The Final Season Part 2",
-    "year": 2022,
-    "song_title": "The Rumbling",
-    "artist": "SiM",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS4Part2-OP1.webm"
-  },
-  "169": {
+  "167": {
     "show_title": "Shokugeki no Souma: Food Wars",
     "year": 2015,
     "song_title": "Kibou no Uta",
@@ -1359,7 +1343,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSouma-OP1.webm"
   },
-  "170": {
+  "168": {
     "show_title": "Shokugeki no Souma: Food Wars",
     "year": 2015,
     "song_title": "Rising Rainbow",
@@ -1367,7 +1351,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSouma-OP2.webm"
   },
-  "171": {
+  "169": {
     "show_title": "Shokugeki no Souma: Gou no Sara",
     "year": 2020,
     "song_title": "Last Chapter",
@@ -1375,7 +1359,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSoumaGouNoSara-OP1-NCBD1080.webm"
   },
-  "172": {
+  "170": {
     "show_title": "Shokugeki no Souma: Ni no Sara",
     "year": 2016,
     "song_title": "ROUGH DIAMONDS",
@@ -1383,7 +1367,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSomaNiNoSara-OP1.webm"
   },
-  "173": {
+  "171": {
     "show_title": "Shokugeki no Souma: San no Sara",
     "year": 2017,
     "song_title": "BRAVER",
@@ -1391,7 +1375,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSoumaSanNoSara-OP1-NCBD1080.webm"
   },
-  "174": {
+  "172": {
     "show_title": "Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen",
     "year": 2018,
     "song_title": "Symbol",
@@ -1399,7 +1383,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSoumaSanNoSaraToutsukiResshaHen-OP1-NCBD1080.webm"
   },
-  "175": {
+  "173": {
     "show_title": "Shokugeki no Souma: Shin no Sara",
     "year": 2019,
     "song_title": "Chronos",
@@ -1407,23 +1391,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/ShokugekiNoSoumaShinNoSara-OP1-NCBD1080.webm"
   },
-  "176": {
-    "show_title": "Spy x Family",
-    "year": 2022,
-    "song_title": "Mixed Nuts",
-    "artist": "Official HIGE DANdism",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/SpyXFamily-OP1.webm"
-  },
-  "177": {
-    "show_title": "Spy x Family Part 2",
-    "year": 2022,
-    "song_title": "SOUVENIR",
-    "artist": "BUMP OF CHICKEN",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/SpyXFamilyPart2-OP1.webm"
-  },
-  "178": {
+  "174": {
     "show_title": "Sword Art Online",
     "year": 2012,
     "song_title": "crossing field",
@@ -1431,7 +1399,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SwordArtOnline-OP1.webm"
   },
-  "179": {
+  "175": {
     "show_title": "Sword Art Online",
     "year": 2012,
     "song_title": "INNOCENCE",
@@ -1439,31 +1407,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/SwordArtOnline-OP2.webm"
   },
-  "180": {
-    "show_title": "Sword Art Online II",
-    "year": 2014,
-    "song_title": "IGNITE",
-    "artist": "Eir Aoi",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP1.webm"
-  },
-  "181": {
-    "show_title": "Sword Art Online II",
-    "year": 2014,
-    "song_title": "courage",
-    "artist": "Haruka Tomatsu",
-    "sequence": 2,
-    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP2.webm"
-  },
-  "182": {
-    "show_title": "Sword Art Online II",
-    "year": 2014,
-    "song_title": "Separate Ways",
-    "artist": "Haruka Tomatsu",
-    "sequence": 3,
-    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP3.webm"
-  },
-  "183": {
+  "176": {
     "show_title": "Sword Art Online: Alicization",
     "year": 2018,
     "song_title": "ADAMAS",
@@ -1471,7 +1415,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SwordArtOnlineAlicization-OP1-NCBD1080.webm"
   },
-  "184": {
+  "177": {
     "show_title": "Sword Art Online: Alicization",
     "year": 2018,
     "song_title": "RESISTER",
@@ -1479,7 +1423,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/SwordArtOnlineAlicization-OP2-NCBD1080.webm"
   },
-  "185": {
+  "178": {
     "show_title": "Sword Art Online: Alicization - War of Underworld",
     "year": 2019,
     "song_title": "Resolution",
@@ -1487,7 +1431,31 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/SwordArtOnlineAlicizationS2-OP1-NCBD1080.webm"
   },
-  "186": {
+  "179": {
+    "show_title": "Sword Art Online II",
+    "year": 2014,
+    "song_title": "IGNITE",
+    "artist": "Eir Aoi",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP1.webm"
+  },
+  "180": {
+    "show_title": "Sword Art Online II",
+    "year": 2014,
+    "song_title": "courage",
+    "artist": "Haruka Tomatsu",
+    "sequence": 2,
+    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP2.webm"
+  },
+  "181": {
+    "show_title": "Sword Art Online II",
+    "year": 2014,
+    "song_title": "Separate Ways",
+    "artist": "Haruka Tomatsu",
+    "sequence": 3,
+    "hq_link": "https://v.animethemes.moe/SwordArtOnlineS2-OP3.webm"
+  },
+  "182": {
     "show_title": "Tengen Toppa Gurren Lagann",
     "year": 2007,
     "song_title": "Sorairo Days",
@@ -1495,7 +1463,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1.webm"
   },
-  "187": {
+  "183": {
     "show_title": "The God of High School",
     "year": 2020,
     "song_title": "Contradiction feat. Tyler Carter",
@@ -1503,7 +1471,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/TheGodOfHighSchool-OP1-NCBD1080.webm"
   },
-  "188": {
+  "184": {
     "show_title": "Tokyo Ghoul",
     "year": 2014,
     "song_title": "unravel",
@@ -1511,7 +1479,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/TokyoGhoul-OP1.webm"
   },
-  "189": {
+  "185": {
     "show_title": "Tokyo Ghoul \u221aA",
     "year": 2015,
     "song_title": "Munou",
@@ -1519,15 +1487,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/TokyoGhoulRootA-OP1.webm"
   },
-  "190": {
-    "show_title": "Tokyo Revengers",
-    "year": 2021,
-    "song_title": "Cry Baby",
-    "artist": "Official HIGE DANdism",
-    "sequence": 1,
-    "hq_link": "https://v.animethemes.moe/TokyoRevengers-OP1.webm"
-  },
-  "191": {
+  "186": {
     "show_title": "Tonikaku Kawaii",
     "year": 2020,
     "song_title": "Koi no Uta (feat. Tsukasa Yuzaki)",
@@ -1535,7 +1495,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Tonikawa-OP1.webm"
   },
-  "192": {
+  "187": {
     "show_title": "Toradora!",
     "year": 2008,
     "song_title": "Pre-Parade",
@@ -1543,7 +1503,7 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/Toradora-OP1.webm"
   },
-  "193": {
+  "188": {
     "show_title": "Toradora!",
     "year": 2008,
     "song_title": "silky heart",
@@ -1551,7 +1511,7 @@
     "sequence": 2,
     "hq_link": "https://v.animethemes.moe/Toradora-OP2.webm"
   },
-  "194": {
+  "189": {
     "show_title": "Vampire Knight",
     "year": 2008,
     "song_title": "Futatsu no Kodou to Akai Tsumi",
@@ -1559,12 +1519,180 @@
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/VampireKnight-OP1.webm"
   },
-  "195": {
+  "190": {
     "show_title": "Violet Evergarden",
     "year": 2018,
     "song_title": "Sincerely",
     "artist": "TRUE",
     "sequence": 1,
     "hq_link": "https://v.animethemes.moe/VioletEvergarden-OP1-Lyrics.webm"
+  },
+  "191": {
+    "show_title": "Boku no Hero Academia 5th Season",
+    "year": 2021,
+    "song_title": "No.1",
+    "artist": "DISH//",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS5-OP1-NCBD1080.webm"
+  },
+  "192": {
+    "show_title": "Boku no Hero Academia 5th Season",
+    "year": 2021,
+    "song_title": "Merry-Go-Round",
+    "artist": "MAN WITH A MISSION",
+    "sequence": 2,
+    "hq_link": "https://v.animethemes.moe/BokuNoHeroAcademiaS5-OP2-NCBD1080.webm"
+  },
+  "193": {
+    "show_title": "Tokyo Revengers",
+    "year": 2021,
+    "song_title": "Cry Baby",
+    "artist": "Official HIGE DANdism",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/TokyoRevengers-OP1-NCBD1080.webm"
+  },
+  "194": {
+    "show_title": "Blue Period",
+    "year": 2021,
+    "song_title": "EVERBLUE",
+    "artist": "Omoinotake",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/BluePeriod-OP1.webm"
+  },
+  "195": {
+    "show_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+    "year": 2022,
+    "song_title": "STONE OCEAN",
+    "artist": "ichigo",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP1.webm"
+  },
+  "196": {
+    "show_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+    "year": 2022,
+    "song_title": "Heaven's falling down",
+    "artist": "sajou no hana",
+    "sequence": 2,
+    "hq_link": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP2.webm"
+  },
+  "197": {
+    "show_title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "year": 2022,
+    "song_title": "Zankyou Zanka",
+    "artist": "Aimer",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/KimetsuNoYaibaYuukakuHen-OP1-NCBD1080.webm"
+  },
+  "198": {
+    "show_title": "Shingeki no Kyojin: The Final Season Part 2",
+    "year": 2022,
+    "song_title": "The Rumbling",
+    "artist": "SiM",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/ShingekiNoKyojinS4Part2-OP1.webm"
+  },
+  "199": {
+    "show_title": "Sabikui Bisco",
+    "year": 2022,
+    "song_title": "Kaze no Oto sae Kikoenai",
+    "artist": "JUNNA",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/SabikuiBisco-OP1.webm"
+  },
+  "200": {
+    "show_title": "Paripi Koumei",
+    "year": 2022,
+    "song_title": "Chiki Chiki Ban Ban",
+    "artist": "QUEENDOM",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/ParipiKoumei-OP1.webm"
+  },
+  "201": {
+    "show_title": "Spy x Family",
+    "year": 2022,
+    "song_title": "Mixed Nuts",
+    "artist": "Official HIGE DANdism",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/SpyXFamily-OP1.webm"
+  },
+  "202": {
+    "show_title": "Cyberpunk: Edgerunners",
+    "year": 2022,
+    "song_title": "This Fffire",
+    "artist": "Franz Ferdinand",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/CyberpunkEdgerunners-OP1.webm"
+  },
+  "203": {
+    "show_title": "Spy x Family Part 2",
+    "year": 2022,
+    "song_title": "SOUVENIR",
+    "artist": "BUMP OF CHICKEN",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/SpyXFamilyPart2-OP1-NCBD1080.webm"
+  },
+  "204": {
+    "show_title": "Mob Psycho 100 III",
+    "year": 2022,
+    "song_title": "1",
+    "artist": "MOB CHOIR",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/MobPsycho100S3-OP1.webm"
+  },
+  "205": {
+    "show_title": "Akiba Maid Sensou",
+    "year": 2022,
+    "song_title": "Maid Daikaiten",
+    "artist": "Ton Tokoton Staff Ichidou",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/AkibaMaidSensou-OP1-NCBD1080.webm"
+  },
+  "206": {
+    "show_title": "Bocchi the Rock!",
+    "year": 2022,
+    "song_title": "Seishun Complex",
+    "artist": "Kessoku Band",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/BocchiTheRock-OP1-NCBD1080.webm"
+  },
+  "207": {
+    "show_title": "Blue Lock",
+    "year": 2022,
+    "song_title": "Chaos ga Kiwamaru",
+    "artist": "UNISON SQUARE GARDEN",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/BlueLock-OP1-NCBD1080.webm"
+  },
+  "208": {
+    "show_title": "Blue Lock",
+    "year": 2022,
+    "song_title": "Judgement",
+    "artist": "ASH DA HERO",
+    "sequence": 2,
+    "hq_link": "https://v.animethemes.moe/BlueLock-OP2.webm"
+  },
+  "209": {
+    "show_title": "Chainsaw Man",
+    "year": 2022,
+    "song_title": "KICK BACK",
+    "artist": "Kenshi Yonezu",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/ChainsawMan-OP1-NCBD1080.webm"
+  },
+  "210": {
+    "show_title": "Jigokuraku",
+    "year": 2023,
+    "song_title": "W\u25cfRK",
+    "artist": "millennium parade",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/Jigokuraku-OP1.webm"
+  },
+  "211": {
+    "show_title": "Kono Subarashii Sekai ni Bakuen wo!",
+    "year": 2023,
+    "song_title": "STAY FREE",
+    "artist": "Machico",
+    "sequence": 1,
+    "hq_link": "https://v.animethemes.moe/KonosubaBakuen-OP1.webm"
   }
 }

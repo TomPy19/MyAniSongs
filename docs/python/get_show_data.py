@@ -1,16 +1,15 @@
 import requests
+import json
 
 def get_show_data(user_list):
   ids = ""
-  ids+=user_list[0]["id"]
+  ids+=f'{user_list[0]["id"]}'
 
   for entry in range(len(user_list)-1):
-    ids+=","+user_list[entry+1]["id"]
-  shows = query_name(ids) 
+    ids+=f',{user_list[entry+1]["id"]}'
+  show_data = query_name(ids) 
 
-  return shows
-  # with open('lists/show_data.json', 'w') as outfile:
-  #   json.dump(shows, outfile, indent=2)
+  return show_data
 
 def query_name(ids):
   list_data = {"anime": []}
@@ -21,9 +20,15 @@ def query_name(ids):
 
     "include":
       "animethemes.song.artists,animethemes.animethemeentries.videos,resources",
+
+    "filter[site]":
+      "MyAnimeList",
     
-    "fields[search]":
-      "anime",
+    "filter[external_id]":
+      ids,
+
+    "filter[has]":
+      "resources",
 
     "fields[anime]":
       "year,name",
@@ -46,16 +51,25 @@ def query_name(ids):
     "fields[resource]":
       "external_id,site",
 
-    "filter[external_id]":
-      ids,
-
-    "filter[site]":
-      "MyAnimeList",
-
     "page[number]":
       1
   }
 
+  response = requests.get(url, params=params).json()
+  i=1
+  print(f'Reading page {i}...')
+  i+=1
+  next = response["links"]["next"]
+  list_data["anime"].extend(response["anime"])
 
+  while next:
+    response = requests.get(next).json()
+    next = response["links"]["next"]
+    list_data["anime"].extend(response["anime"])
+    print(f'Reading page {i}...')
+    i+=1
 
-  return requests.get(url, params=params).json()
+  # with open(f'../lists/users/{user}/show_data.json', 'w') as outfile:
+  #     json.dump(list_data, outfile, indent=2)
+
+  return list_data

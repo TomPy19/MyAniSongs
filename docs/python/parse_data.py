@@ -27,16 +27,13 @@ def format_data(current_show, theme):
 		"hq_link": hq(theme["animethemeentries"][0]["videos"])
 	}
 
-def parse_data(data):
-  # with open(path) as file:
-  #   data = json.load(file)
-  
+def parse_data(data, user):
   parsed_data = {}
   i=0
   
-  for anime in range(len(data)):
+  for anime in range(len(data["anime"])):
     seq = []
-    current_show = data[anime]["anime"][0]
+    current_show = data["anime"][anime]
     for theme in current_show["animethemes"]:
       if theme["type"] == "OP":
         if theme["sequence"] == "null":
@@ -48,6 +45,6 @@ def parse_data(data):
             parsed_data[i] = format_data(current_show, theme)
             i+=1
             
-  with open('lists/parsed_data.json', 'w') as outfile:
+  with open(f'../lists/{user}/parsed_data.json', 'w') as outfile:
     json.dump(parsed_data, outfile, indent=2)
     
