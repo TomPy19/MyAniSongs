@@ -67,6 +67,12 @@ def refresh_user(user):
   else:
     return {"message": "User not found."}, 404
 
+@app.route("/get/<user>")
+def get_user_data(user):
+  if user in users:
+    return json.load(open(f'../lists/{user}/parsed_data.json', 'r'))
+  else:
+    return {"message": "User not found."}, 404
 
 if __name__ == "__main__":
   app.run(debug=True, host='172.17.0.4', port=5020)
