@@ -1,3 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+body {
+  font-family: Open Sans;
+  background-color: #282832;
+  color: rgb(238, 231, 221);
+  font-size: 20px;
+}
+
+h1 {
+  font-family: Righteous;
+  font-weight: 100;
+  font-size: 60px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: -15px;
+}
+
+p {
+  margin-bottom: -10px;
+}
