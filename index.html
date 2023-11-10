@@ -6,19 +6,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Righteous&family=Open+Sans">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/cd8cff598a.js" crossorigin="anonymous"></script>
+    <link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css' rel='stylesheet'>
 </head>
 
 <body>
     <div>
         <h1>MyAniSongs</h1>
+        <div class="video-container">
+            <div class="video-player">
+                <video class="video" height="450" width="800" src="https://v.animethemes.moe/Beastars-OP1-NCBD1080.webm" autoplay></video>
+            </div>
+            <div class="controls-container">
+                <div class="vol-container">
 
-        <div class="video-player">
-            <video class="video" height="450" width="800" src="" autoplay controls></video>
+                </div>
+                <div class="vid-padding">
+
+                </div>
+                <div class="playback-container">
+                    <div class="playback-btns">
+                        <i class="fas fa-shuffle" id="shuffle"></i>
+                        <i class="fas fa-backward-step" id="prev"></i>
+                        <i class="fas fa-circle-play" id="play-pause"></i>
+                        <i class="fas fa-forward-step" id="next"></i>
+                        <i class="fas fa-repeat" id="loop"></i>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <h2 class="anime-title"></h2>
-        <h2 class="song-title"></h2>
+        <div class="currently-playing">
+            <h2 class="anime-title"></h2>
+            <h2 class="song-title"></h2>
+        </div>
+
+        <div class="playlist-container">
+            <div class="user-info">
+
+            </div>
+            <div class="song-list">
+                
+            </div>
+        </div>
+
     </div>
     <script src="./docs/js/myanisongs.js"></script>
 </body>
